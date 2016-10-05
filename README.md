@@ -17,7 +17,7 @@ Tytuł
 Tytuł zgłoszenia musi zawierać następujące informacje:
 
  - Miejsce (jeżeli nie dotyczy to gry)
- - Kategoria
+ - Kategoria (np: [QUEST][SPELL], dopuszczalne są polskie nazwy takie jak [REPUTACJA] zamiast [REPUTATION])
  - Krótka nazwa, odzwierciedlająca zgłaszany błąd
 
 Przykłady **prawidłowego** tytułu:
