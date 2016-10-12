@@ -13,3 +13,11 @@
 1. 
 2. 
 3. 
+
+**Linki WoWHead/OpenWoW**:
+
+1. 
+2. 
+3. 
+
+**Lokalizacja z koordynatów GPS (X, Y, Z, Map)**:
