@@ -38,3 +38,5 @@ Opis
 Każde zgłoszenie musi być zgłoszone wg. określonego szablonu, zaś wszystkie pola w nim muszą zostać wypełnione i opisane.
 
 Należy również załączyć zrzut ekranu z zaistniałym błędem, dostarczyć wszystkie możliwe linki do weryfikacji (jeżeli błąd w grze: wowhead.com, wotlk.openwow.com), mile widziane filmy z ujętym błędem.
+
+Testerzy posiadają również przypisane komendy ".gps" - która pozwala pobrać dokładne serwerowe informacje na temat obecnego położenia gracza. Każde zgłoszenie **MUSI** być dostarczane z zrzutem ekranu, który pokazuje wynik tej komendy.
